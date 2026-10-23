@@ -38,7 +38,7 @@ thehelpingrepo/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/thehelpingrepo.git
+git clone https://github.com/flapbirdmc/thehelpingrepo.git
 
 # Move into the project directory
 cd thehelpingrepo
@@ -68,7 +68,7 @@ Please keep contributions clear, documented, and focused.
 
 ## 🐛 Issues & Suggestions
 
-Found a bug or have an idea? [Open an issue](https://github.com/your-username/thehelpingrepo/issues) and let us know.
+Found a bug or have an idea? [Open an issue](https://github.com/flapbirdmc/thehelpingrepo/issues) and let us know.
 
 ## 📄 License
 
