@@ -2,7 +2,6 @@
 
 > A friendly collection of tools, scripts, and resources to help with a bunch of stuff.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
@@ -25,8 +24,6 @@
 thehelpingrepo/
 ├── tools/        # Scripts and utilities
 ├── docs/         # Guides and documentation
-├── examples/     # Example usage
-├── LICENSE
 └── README.md
 ```
 
@@ -75,7 +72,7 @@ Found a bug or have an idea? [Open an issue](https://github.com/your-username/th
 
 ## 📄 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+This project is free to use. No license, no strings attached.
 
 ## 🙌 Acknowledgments
 
