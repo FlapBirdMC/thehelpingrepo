@@ -23,7 +23,6 @@
 ```
 thehelpingrepo/
 ├── tools/        # Scripts and utilities
-├── docs/         # Guides and documentation
 └── README.md
 ```
 
